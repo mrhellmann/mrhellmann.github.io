@@ -5,7 +5,7 @@ css: "/css/contact.css"
 googlefonts: Lobster
 ---
 
-Just kidding, you can't contact me here.  
+Just kidding, you can't contact me here. Certainly not since these edits are not getting published.  
 
 But this little page shows you how you can write a minimalist page if you ever want to have some page without the header and all the other bulky stuff.
 
